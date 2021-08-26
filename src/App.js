@@ -1,7 +1,4 @@
 import React,{useState} from 'react'
-import { Form, Row, FormGroup, Col } from "react-bootstrap";
-import RangeSlider from 'react-rangeslider'
-import { render } from 'react-dom';
 import './App.css'
 
 function App() {
